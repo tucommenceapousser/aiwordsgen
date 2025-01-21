@@ -1,5 +1,9 @@
-# AI Words Generator
+# AI Words Generator by TRHACKNON
 
+<p align="center">
+  <img src="generated-icon.png" alt="Logo" width="200" style="border-radius: 10px;"/>
+
+</p>
 AI Words Generator est un script Python qui utilise l'API OpenAI pour générer du contenu basé sur des prompts personnalisés. Ce script gère jusqu'à 4 clés API pour un usage optimisé.
 
 ## 🚀 Installation
